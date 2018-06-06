@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c0b9efa2-57cf-4d9e-ba04-25beaae03d31" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aa.txt" afterPath="$PROJECT_DIR$/aa.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -162,8 +161,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="621" />
-    <option name="y" value="49" />
+    <option name="x" value="512" />
+    <option name="y" value="20" />
     <option name="width" value="1149" />
     <option name="height" value="701" />
   </component>
@@ -260,7 +259,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="621" y="49" width="1149" height="701" extended-state="0" />
+    <frame x="512" y="20" width="1149" height="701" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19375575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
